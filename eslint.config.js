@@ -2,6 +2,6 @@
 // ignore patterns from the former .eslintignore, which ESLint 9 no longer reads.
 export default [
     {
-        ignores: ["coverage/**", "docs/**", "lib/**", "node_modules/**"],
+        ignores: ["coverage/**", "doc/**", "lib/**", "node_modules/**"],
     },
 ];
